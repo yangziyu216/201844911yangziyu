@@ -1,0 +1,9 @@
+Data mining
+
+任务： 数据来源：http://qwone.com/~jason/20Newsgroups/
+
+预处理文本数据集，并且得到每个文本的VSM表示。
+
+实现KNN分类器，测试其在20Newsgroups上的效果。
+
+Homework1包括数据集分类、代码以及实验报告
