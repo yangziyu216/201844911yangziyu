@@ -1,6 +1,6 @@
 
 任务： 数据来源：http://qwone.com/~jason/20Newsgroups/
 
-实现朴素贝叶斯分类器，测试其在20Newsgroup数据集上的效果
+实现朴素贝叶斯分类器，测试其在20Newsgroups数据集上的效果
 
 Homework2包括代码以及实验报告
