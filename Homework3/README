@@ -1,0 +1,3 @@
+相关资料：https://scikit-learn.org/stable/modules/clustering.html#
+实验任务：测试sklearn中以下聚类算法在tweets数据集上的聚类效果。 
+使用NMI(Normalized Mutual Information)作为评价指标。 
